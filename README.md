@@ -27,4 +27,4 @@ Can you type'em all?
   </tbody>
 </table>
 
-###### Made using Pygame :)
+###### Developed using Pygame :)
